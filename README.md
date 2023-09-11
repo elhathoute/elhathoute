@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi, I'm ELHATHOUT ABDELAZIZ! 👋
 
-<!--
-**elhathoute/elhathoute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Fullstack Developer who loves to build amazing things. 
 
-Here are some ideas to get you started:
+## Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elhathout-abdelaziz-191290208)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:abdelaazizeelhathoute.2018@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Chat-green?style=for-the-badge&logo=discord)](https://discordapp.com/elhathoutabdelaziz)
+
+## My Skills
+
+- Frontend Development
+- Backend Development
+- Database Management
+
+## Portfolio
+
+[![Portfolio]](https://elhathoute.github.io/My_Portfolio_Bootstrap/)
+Explore my portfolio to see some of my recent projects.
