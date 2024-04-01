@@ -15,6 +15,5 @@ I'm a passionate Fullstack Developer who loves to build amazing things.
 - Database Management
 
 ## Portfolio
-
-[![Portfolio]]](https://elhathoutwobz.github.io/portfolio_2024/)/)
+[![Portfolio ]https://elhathoutwobz.github.io/portfolio_2024/]
 Explore my portfolio to see some of my recent projects.
